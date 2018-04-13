@@ -1,0 +1,19 @@
+/*CSS style test file */
+body {background-color: rgb(180,150,170);background-image:url("https://zellox.com/wp-content/uploads/2016/02/background-image-for-website.jpg"); font-family:Arial;font-size: 16px;}
+h1 {font-family:"Monotype Corsiva";text-align: center;color: rgb(250,0,250);font-size:50px;}
+h2 {text-align: center;color: rgb(0,0,250);text-decoration:underline;}
+h3 {text-align: center;color: rgb(250,250,250);}
+h4 {text-align: center;}
+.chapter_title{background-color: rgba(150,150,150,0.8);border: 5px solid rgb(150,0,200);padding: inherit; width: 500px;height: 100px;margin: 10px auto 10px auto;border-radius: 20px;box-shadow:-5px -5px 10px;}
+.table_of_contents{color:rgb(0,0,0);background-color: rgb(75,150,200);background-image:url("http://3.bp.blogspot.com/-3UIjuTrbAI8/Uihk5uaH_lI/AAAAAAAAAuk/gcn5XlQ9kyI/s640/Top+10+best+Simple+Awesome+Background+Images+for+Your+Website+or+Blog2.jpg");padding:inherit;border: 5px solid rgb(150,0,200);width:500px;height:315px; margin:10px auto 10px auto;border-radius: 20px;}
+p.translation_credit {text-align:center}
+p.chapter_start_paragraph:first-letter {font-size: 200%; font-weight: bold}
+p {text-align:justify;}
+ol {list-style-type:decimal;}
+ul {list-style-image: url("chinese_letter.png");list-style-type:circle;}
+hr {border:none;height:5px;background-color:rgb(100,100,100)}
+figure {display:block;margin: 35px auto 35px auto;width:400px;height:400px;text-align:center;padding:inherit;border: 3px solid rgb(150,0,200);font-size:25px;}
+a:link {color: rgb(50,150,200); text-decoration: underline; }
+a:active {color: #0000ff; text-decoration: underline; }
+a:visited {color: #008000; text-decoration: underline; }
+a:hover {color: #ff0000; text-decoration: none; }
